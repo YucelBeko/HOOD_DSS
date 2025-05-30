@@ -2,7 +2,7 @@ streamlit
 pandas
 scikit-learn
 joblib
-fitz
+PyMuPDF
 pdfplumber
 matplotlib
 re
