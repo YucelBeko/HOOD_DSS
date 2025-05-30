@@ -5,5 +5,3 @@ joblib
 PyMuPDF
 pdfplumber
 matplotlib
-re
-json
